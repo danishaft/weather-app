@@ -47,4 +47,4 @@ function dateBuilder (d) {
   let year = d.getFullYear();
 
   return `${day} ${date} ${month} ${year}`;
-}
+};
